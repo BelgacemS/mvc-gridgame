@@ -1,0 +1,22 @@
+# Dossier des fichiers compilés
+bin/
+
+# Fichiers compilés Java
+*.class
+
+# Fichiers de package
+*.jar
+*.war
+*.ear
+
+# Fichiers spécifiques aux IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
